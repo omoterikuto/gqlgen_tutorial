@@ -1,1 +1,0 @@
-# gqlgen_tutorial
